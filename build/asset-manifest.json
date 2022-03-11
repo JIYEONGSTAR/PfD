@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PfD/static/css/main.7e03be98.chunk.css",
+    "main.js": "/PfD/static/js/main.4e9e22d5.chunk.js",
+    "main.js.map": "/PfD/static/js/main.4e9e22d5.chunk.js.map",
+    "runtime-main.js": "/PfD/static/js/runtime-main.7972a04b.js",
+    "runtime-main.js.map": "/PfD/static/js/runtime-main.7972a04b.js.map",
+    "static/js/2.e1a20c22.chunk.js": "/PfD/static/js/2.e1a20c22.chunk.js",
+    "static/js/2.e1a20c22.chunk.js.map": "/PfD/static/js/2.e1a20c22.chunk.js.map",
+    "index.html": "/PfD/index.html",
+    "static/css/main.7e03be98.chunk.css.map": "/PfD/static/css/main.7e03be98.chunk.css.map",
+    "static/js/2.e1a20c22.chunk.js.LICENSE.txt": "/PfD/static/js/2.e1a20c22.chunk.js.LICENSE.txt",
+    "static/media/jiyeong.ef00b4c6.png": "/PfD/static/media/jiyeong.ef00b4c6.png",
+    "static/media/jiyeong2.1a1151e1.png": "/PfD/static/media/jiyeong2.1a1151e1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7972a04b.js",
+    "static/js/2.e1a20c22.chunk.js",
+    "static/css/main.7e03be98.chunk.css",
+    "static/js/main.4e9e22d5.chunk.js"
+  ]
+}
