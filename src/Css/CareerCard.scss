@@ -1,0 +1,43 @@
+.careerCard {
+  width: 70vw;
+  height: 200px;
+
+  color: black;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  @media screen and (max-width: 480px) {
+    height: 140px;
+  }
+}
+.left {
+  animation: ease-in 0.5s leftEffect;
+}
+.right {
+  animation: ease-in 0.5s rightEffect;
+}
+
+@keyframes leftEffect {
+  0% {
+    opacity: 0;
+    transform: translate3d(-100%, 0, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translateZ(0);
+  }
+}
+
+//오른쪽으로 가는 애니메이션 애니메이션
+@keyframes rightEffect {
+  0% {
+    opacity: 0;
+    transform: translate3d(100%, 0, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translateZ(0);
+  }
+}

@@ -1,0 +1,42 @@
+@import "./variable.scss";
+.career {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-blend-mode: multiply;
+  background: white;
+  background-size: cover;
+  position: relative;
+  // animation: displace 3s linear infinite;
+
+  @media screen and (max-width: 480px) {
+    display: flex;
+    justify-content: flex-start;
+    top: 20px;
+    height: 80vh;
+  }
+  &__section {
+    width: 80%;
+    height: 80%;
+    display: grid;
+
+    justify-content: center;
+    align-items: center;
+    transition: all 2s;
+    @media screen and (max-width: 480px) {
+      // height: 40%;
+    }
+  }
+}
+
+@keyframes displace {
+  from {
+    background-position: center 0;
+  }
+  to {
+    background-position: center 1200px;
+  }
+}
