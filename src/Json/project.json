@@ -1,0 +1,63 @@
+[
+  {
+    "name": "rockpaperscissors",
+    "content": "컴퓨터와 가위바위 보를 하는 개인 프로젝트",
+    "tech_stack": ["React"],
+    "did": [
+      "랜덤함수를 이용해소 가위바위보를 나타냈다",
+      "처음으로 반응형을 활용했다",
+      "github.io로 배포했다",
+      "https://jiyeongstar.github.io/rockpaperscissors/"
+    ]
+  },
+
+  {
+    "name": "데러쿱",
+    "content": "책 읽는 습관을 가지기 위한 매일 필사",
+    "tech_stack": ["React"],
+    "did": [
+      "기획과 디자인을 담당했다",
+      "모든 프론트엔드 기능을 만들었다",
+      "프로젝트 매니저로서 모든 총괄을 맡았다"
+    ]
+  },
+  {
+    "name": "SHARE_BILLAGE",
+    "content": "무료 전공책 대여 서비스",
+    "tech_stack": ["React"],
+    "did": ["기획과 디자인을 담당했다", "redux를 사용해서 데이터를 관리했다"]
+  },
+  {
+    "name": "워다타",
+    "content": "빅데이터를 활용한 단어장",
+    "tech_stack": ["JS", "HTML"],
+    "did": ["기획과 디자인을 담당했다", "교내 대회 은상"]
+  },
+  {
+    "name": "도다지 프로젝트",
+    "content": "개발 성향 테스트",
+    "tech_stack": ["React"],
+    "did": [
+      "mbti처럼 자신의 개발 스타일에 따라 8가지로 분류",
+      "리액트 훅을 활용한 첫 번째 프로젝트",
+      "처음으로 API통신을 사용"
+    ]
+  },
+
+  {
+    "name": "FOR_FRESHMEN",
+    "content": "간단한 JS를 활용한 프로젝트",
+    "tech_stack": ["JS", "HTML"],
+    "did": ["기획과 디자인을 담당했다"]
+  },
+  {
+    "name": "PfD",
+    "content": "포트폴리오 웹 사이트",
+    "tech_stack": ["React"],
+    "did": [
+      "컴포넌트 카드들 만들었다",
+      "서버를 구축했다",
+      "모달 기능을 만들었다."
+    ]
+  }
+]

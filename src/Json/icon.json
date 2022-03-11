@@ -1,0 +1,30 @@
+[
+  {
+    "name": "java",
+    "src": "https://img.shields.io/badge/Java-AAAAAA?style=plastic&logo=java&logoColor=FF0000"
+  },
+  {
+    "name": "react",
+    "src": "https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=black"
+  },
+  {
+    "name": "spring",
+    "src": "https://img.shields.io/badge/Spring Boot-brightgreen?style=plastic&logo=Spring&logoColor=white"
+  },
+  {
+    "name": "tf",
+    "src": "https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white"
+  },
+  {
+    "name": "keras",
+    "src": "https://img.shields.io/badge/Keras-D00000?style=plastic&logo=Keras&logoColor=white"
+  },
+  {
+    "name": "pytorch",
+    "src": "https://img.shields.io/badge/Pytorch-AAAAAA?style=plastic&logo=pytorch&logoColor=FF0000"
+  },
+  {
+    "name": "git",
+    "src": "https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"
+  }
+]
